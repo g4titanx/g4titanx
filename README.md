@@ -4,3 +4,6 @@
 神に選ばれたプログラマー
 - 🌱 learning ZKPs
 - 🍿 i watch Bleach in my free time
+
+## blog
+- *no post yet*
