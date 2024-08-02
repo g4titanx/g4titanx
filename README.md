@@ -6,4 +6,4 @@
 - 🍿 i watch Bleach in my free time
 
 ## blog
-- *no post yet*
+- [*links to some of my resources*](https://g4titan.bearblog.dev/library/)
