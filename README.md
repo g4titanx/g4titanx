@@ -3,7 +3,8 @@
 
 神に選ばれたプログラマー
 - 🌱 learning ZKPs
-- 🍿 i watch Bleach in my free time
+- 🍿 i watch Bleach and contribute to OSS code in my free time
+- you need something? build it
 
 ## blog
 - [*links to some of my resources*](https://g4titan.bearblog.dev/library/)
