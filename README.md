@@ -1,9 +1,4 @@
-## hi, i am アレーク (eng: ah-Lah-kay)
-![bankai](https://github.com/g4titanx/g4titanx/assets/165895305/4afac08d-2d86-4a3b-af45-7839bd52adb1)
+## hi, i am alake (jpn: アレーク)
+![image](https://github.com/user-attachments/assets/a7645c77-4958-44c1-8494-b4a8d95a9b86)
 
-神に選ばれたプログラマー
-- 🌱 learning ZKPs
-- 🍿 i watch Bleach in my free time
-
-## blog
-- [*links to some of my resources*](https://g4titan.bearblog.dev/library/)
+- [*blog*](https://g4titan.bearblog.dev)
